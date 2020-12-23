@@ -1,3 +1,3 @@
 # Video Game Sales Viz
 
-### https://saini1998.github.io/vgsalesviz.github.io/
+### [Live Project](https://saini1998.github.io/vgsalesviz.github.io/)
